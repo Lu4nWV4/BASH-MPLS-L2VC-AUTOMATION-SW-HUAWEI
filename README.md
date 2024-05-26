@@ -16,7 +16,7 @@ IP de MPLS da ponta A, Interface ponta A, Descricao da interface ponta A, IP de 
 
 
 Passo 6:
-Rode o script rotina-l2vc.sh e responda o que é solicitado pelo script.
+Rode o script rotina-l2vc.sh e responda o que é solicitado.
 
 
 
